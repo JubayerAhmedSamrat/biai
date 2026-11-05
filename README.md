@@ -2,6 +2,10 @@
 
 A small Streamlit + SQLite CRM prototype for the BIAI AI Intern Round 2 Task 1.
 
+## Try it live
+
+[![Launch the live app](https://img.shields.io/badge/Launch%20Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://xtc8thwvlmjikh7jjn8f9o.streamlit.app/)
+
 ## Features
 - Imports the 20 fictional sample enquiries on first launch.
 - Enquiry inbox with search and filters.
