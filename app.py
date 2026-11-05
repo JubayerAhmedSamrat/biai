@@ -148,7 +148,7 @@ with st.sidebar:
     st.header("Navigation")
     page = st.radio("Go to", ["Dashboard", "Enquiries", "Add enquiry", "AI reply assistant"])
     st.divider()
-    st.caption("AI provider: Gemini 2.5 Flash")
+    st.caption("AI provider: Gemini 3.8 Flash")
     st.caption("Database: local SQLite")
 
 if page == "Dashboard":
